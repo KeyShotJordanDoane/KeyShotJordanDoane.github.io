@@ -1,0 +1,10 @@
+{
+    "horizontalFrames": 24,
+    "horizontalStartingIndex": 12,
+    "horizontalWrap": true,
+    "name": "Startup.bip",
+    "type": "KeyShotXR",
+    "verticalFrames": 8,
+    "verticalStartingIndex": 0,
+    "verticalWrap": false
+}
